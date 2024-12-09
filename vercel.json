@@ -13,7 +13,7 @@
     "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "",
+    "APP_URL": "https://vercel.com/hamdis-projects-c08e7921/",
     "APP_KEY": "base64:4W3cw+Goy0UZa0xtn2RaotOtxzfH5mn2l0uFQZnWNio=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
